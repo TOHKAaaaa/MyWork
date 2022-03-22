@@ -1,5 +1,5 @@
 # MyWork
-my product for FDU reexamine
+my products for FDU reexamine
 
 kaggle——M5 forecasting：该文件夹中为kaggle上相关比赛的代码。（地址：https://www.kaggle.com/c/m5-forecasting-accuracy）
 
