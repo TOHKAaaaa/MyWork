@@ -1,0 +1,7 @@
+accuracy= 0.730452, rmse= 0.433719, auc= 0.752963
+accuracy= 0.730022, rmse= 0.433221, auc= 0.752583
+accuracy= 0.730022, rmse= 0.433221, auc= 0.752583
+accuracy= 0.730022, rmse= 0.433221, auc= 0.752583
+accuracy= 0.731115, rmse= 0.433542, auc= 0.752908
+accuracy= 0.730757, rmse= 0.432150, auc= 0.753538
+accuracy= 0.730846, rmse= 0.434861, auc= 0.752682

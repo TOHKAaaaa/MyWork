@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoTestManager">
+    <enabled-run-configurations>
+      <run-configuration type="tests" name="Rerun Failed Tests" />
+    </enabled-run-configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="91bf3595-df77-4008-beb9-f844a5063b4a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/data/NeuralCD_dataLoader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/NeuralCDM-assist2009/log_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/NeuralCDM-assist2009/test_set.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/NeuralCDM-assist2009/train_set.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/NeuralCDM-assist2009/train_slice.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/NeuralCDM-assist2009/val_set.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evaluation/NeuralCDM.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/NeuralCDM.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/DKT.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DKT.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hyparams.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hyparams.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dataloader.py" beforeDir="false" afterPath="$PROJECT_DIR$/data/dataloader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vueDKT/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/vueDKT/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vueDKT/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/vueDKT/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="cf891159-851a-4e16-b292-0910c0cfa5cc" />
+  <component name="ProjectId" id="1n1LpDz4kFUAJzKQm0HHSi8WtRT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../github/DeepKnowledgeTracing-DKT-Pytorch-master" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Intelligent Education\code\DKT\dataset" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.app">
+    <configuration name="NeuralCDM" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DKT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/evaluation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/evaluation/NeuralCDM.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RNN" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DKT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model/RNN.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DKT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DKT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/evaluation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/evaluation/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DKT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.app" />
+      <item itemvalue="Python.RNN" />
+      <item itemvalue="Python.run" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.NeuralCDM" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.NeuralCDM" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python.RNN" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91bf3595-df77-4008-beb9-f844a5063b4a" name="Default Changelist" comment="" />
+      <created>1610552831033</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610552831033</updated>
+      <workItem from="1610552843400" duration="678000" />
+      <workItem from="1610553590782" duration="43980000" />
+      <workItem from="1610709991990" duration="8806000" />
+      <workItem from="1610794455331" duration="43000" />
+      <workItem from="1610794580400" duration="669000" />
+      <workItem from="1610810145113" duration="1805000" />
+      <workItem from="1610899209760" duration="13653000" />
+      <workItem from="1610937697412" duration="6220000" />
+      <workItem from="1610947119751" duration="10439000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610937861150">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1610937861150" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1610956317912">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1610956317912" />
+    <state x="549" y="166" key="FileChooserDialogImpl" timestamp="1610968114871">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="166" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1610968114871" />
+    <state width="1493" height="215" key="GridCell.Tab.0.bottom" timestamp="1610967675572">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="215" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610967675572" />
+    <state width="1493" height="215" key="GridCell.Tab.0.center" timestamp="1610967675572">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="215" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1610967675572" />
+    <state width="1493" height="215" key="GridCell.Tab.0.left" timestamp="1610967675572">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="215" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1610967675572" />
+    <state width="1493" height="215" key="GridCell.Tab.0.right" timestamp="1610967675572">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="215" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1610967675572" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1610937866506">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610937866506" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1610937866506">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1610937866506" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1610937866506">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1610937866506" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1610937866506">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1610937866506" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1610937916680">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1610937916680" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1610947122373">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1610947122373" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DKT$Hyparams.coverage" NAME="Hyparams Coverage Results" MODIFIED="1610553786011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DKT$app.coverage" NAME="app Coverage Results" MODIFIED="1610967675560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DKT$test.coverage" NAME="test Coverage Results" MODIFIED="1610948048594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DKT$pytest_in_NeuralCDM_py.coverage" NAME="pytest in NeuralCDM.py Coverage Results" MODIFIED="1610937772318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/evaluation" />
+    <SUITE FILE_PATH="coverage/DKT$NeuralCDM.coverage" NAME="NeuralCDM Coverage Results" MODIFIED="1610957850738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/evaluation" />
+    <SUITE FILE_PATH="coverage/DKT$RNN.coverage" NAME="RNN Coverage Results" MODIFIED="1610555275040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model" />
+    <SUITE FILE_PATH="coverage/DKT$run.coverage" NAME="run Coverage Results" MODIFIED="1610685196403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/evaluation" />
+  </component>
+</project>
